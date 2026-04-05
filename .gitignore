@@ -1,2 +1,4 @@
 ./mnist-classifier/data
 ./cnn/data
+
+./GAN_mnist/data
